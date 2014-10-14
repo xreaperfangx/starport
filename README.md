@@ -1,4 +1,0 @@
-starport
-========
-
-live celebrity streams
