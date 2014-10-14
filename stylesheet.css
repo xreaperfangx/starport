@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    padding: 100;
+	background-color: #000000;
+}
+img {
+    width: 70%;
+}
+
+#txt {
+	width: 35%;
+}
+
+#star {
+	width: 40%;
+}
+
+#lst {
+	color: rgb( 255, 255, 255);
+	font-size: 1000%;
+	font-family: "bauhaus 93";
+}
+
+#pay {
+	width: 40%;
+}
+
+#home {
+	width: 10%;
+}
+
+#btn1 {
+	width: 15%;
+}
+
+#btn2 {
+	width: 15%;
+}
+
+#btn3 {
+	width: 15%;
+}
+
+#btn4 {
+	width: 15%;
+}
+
+#btn5 {
+	width: 15%;
+}
+
+#btn6 {
+	width: 10%;
+}
+
+#num {
+	width: 15%;
+}
+
+#clb {
+	width: 20%;
+	padding: .5%;
+	border: 2px solid #000000;
+}
+
+#clb1 {
+	width: 20%;
+	padding: .5%;
+	border: 2px solid #000000;
+}
+
+#pop {
+	width: 25%;
+	padding: .5%;
+}
+
+a:visited {
+    color: #000000;
+}
+
+a:link {
+    color: #000000;
+}
