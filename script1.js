@@ -29,9 +29,4 @@ $(this).css("transform", "rotate(18deg)");
 },function () {
 $(this).css("transform", "rotate(360deg)");
 });
-$("#clb1").hover(function () {
-$(this).css("border", "2px solid #FFFFFF");
-},function () {
-$(this).css("border", "2px solid #000000");
-});
 });

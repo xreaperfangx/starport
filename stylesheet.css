@@ -60,13 +60,10 @@ img {
 #clb {
 	width: 20%;
 	padding: .5%;
-	border: 2px solid #000000;
 }
 
-#clb1 {
-	width: 20%;
-	padding: .5%;
-	border: 2px solid #000000;
+#clb2 {
+	width: 0%;
 }
 
 #pop {
