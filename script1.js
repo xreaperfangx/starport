@@ -29,4 +29,36 @@ $(this).css("transform", "rotate(18deg)");
 },function () {
 $(this).css("transform", "rotate(360deg)");
 });
+
+
+$("#lst1").hover(function () {
+$(this).css("color", "rgb( 244, 215, 27)");
+},function () {
+$(this).css("color", "rgb( 255, 255, 255)");
+});
+$("#lst2").hover(function () {
+$(this).css("color", "rgb( 244, 215, 27)");
+},function () {
+$(this).css("color", "rgb( 255, 255, 255)");
+});
+$("#lst3").hover(function () {
+$(this).css("color", "rgb( 244, 215, 27)");
+},function () {
+$(this).css("color", "rgb( 255, 255, 255)");
+});
+$("#lst4").hover(function () {
+$(this).css("color", "rgb( 244, 215, 27)");
+},function () {
+$(this).css("color", "rgb( 255, 255, 255)");
+});
+$("#lst5").hover(function () {
+$(this).css("color", "rgb( 244, 215, 27)");
+},function () {
+$(this).css("color", "rgb( 255, 255, 255)");
+});
+$("#lst6").hover(function () {
+$(this).css("color", "rgb( 244, 215, 27)");
+},function () {
+$(this).css("color", "rgb( 255, 255, 255)");
+});
 });
