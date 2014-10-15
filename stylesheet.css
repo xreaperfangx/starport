@@ -79,3 +79,18 @@ a:link {
     color: #000000;
 }
 
+#pop1 {
+	height: 280px;
+	width: 470px;
+	position: fixed;
+	bottom: 50%;
+	right: 50%;
+	border: 2px solid;
+	padding: 10px;
+	background: #000000;
+	border-radius: 9px;
+}
+
+#close{
+
+}
