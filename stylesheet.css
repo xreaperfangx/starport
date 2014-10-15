@@ -89,11 +89,36 @@ a:link {
 	position: fixed;
 	bottom: 37%;
 	right: 37%;
-	border: 10px solid #000000;
+	border: 10px solid #FFFFFF;
 	padding: 10px;
 	background: #FFFFFF;
 	border-radius: 9px;
 }
+
+#pop3 {
+	height: 280px;
+	width: 470px;
+	position: fixed;
+	bottom: 37%;
+	right: 37%;
+	border: 10px solid #FFFFFF;
+	padding: 10px;
+	background: #FFFFFF;
+	border-radius: 9px;
+}
+
+#pop4 {
+	height: 280px;
+	width: 470px;
+	position: fixed;
+	bottom: 37%;
+	right: 37%;
+	border: 10px solid #000000;
+	padding: 10px;
+	background: #000000;
+	border-radius: 9px;
+}
+
 
 #close{
 	right: 5;
