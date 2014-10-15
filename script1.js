@@ -1,26 +1,26 @@
 $( document ).ready(function() {
 $("#btn1").hover(function () {
-$(this).css("width", "16%");
+$(this).css("width", "14%");
 },function () {
 $(this).css("width", "15%");
 });
 $("#btn2").hover(function () {
-$(this).css("width", "16%");
+$(this).css("width", "14%");
 },function () {
 $(this).css("width", "15%");
 });
 $("#btn3").hover(function () {
-$(this).css("width", "16%");
+$(this).css("width", "14%");
 },function () {
 $(this).css("width", "15%");
 });
 $("#btn4").hover(function () {
-$(this).css("width", "16%");
+$(this).css("width", "14%");
 },function () {
 $(this).css("width", "15%");
 });
 $("#btn5").hover(function () {
-$(this).css("width", "16%");
+$(this).css("width", "14%");
 },function () {
 $(this).css("width", "15%");
 });
